@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "IddoLabJan18",
-    "currentPage": "contacts.html",
+    "currentPage": "publications.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1037,7 +1037,7 @@
             }
           },
           "_name": "content9",
-          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"33\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#149dcc\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".section-text\" mbr-text>\n                    Lab Alumni</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"33\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#0072b2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".section-text\" mbr-text>\n                    Lab Alumni</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_cid": "qI9SZZ6qIC",
           "_anchor": "content9-1z",
           "_protectedParams": [],
@@ -1055,10 +1055,13 @@
             },
             ".mbr-text P": {
               "text-align": "left"
+            },
+            ".mbr-text DIV": {
+              "color": "#000000"
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><br></p><div>Jake Gregg: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Amazon.com Seattle, WA</div><div>\n</div><div>Ataur Katebi: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Jackson Laboratory, Bar Harbor, ME</div><div>Ashwani Kumar: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;University of Texas Southwestern Medical Center, TX</div><div>James Morton: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;University of California, San Diego, CA\n</div><div>Andrew Oberlin: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Amazon.com, Seattle WA</div><div>Asma Riyaz: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Broad Institute, Boston, MA</div><div>Rajeswari Swaminathan: &nbsp; &nbsp;Nationwide Children's Hospital, Columbus, OH\n</div><div>Alexander Thorman: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;University of Cincinnati School of Medicine, OH</div><p></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><br></p><div>Jake Gregg: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Amazon.com Seattle, WA</div><div>Osama Jomaa: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Expedia, Bellevue, WA</div><div>\n</div><div>Ataur Katebi: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Jackson Laboratory, Bar Harbor, ME</div><div>Ashwani Kumar: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;University of Texas Southwestern Medical Center, TX</div><div>James Morton: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;University of California, San Diego, CA\n</div><div>Andrew Oberlin: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Amazon.com, Seattle WA</div><div>Asma Riyaz: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Broad Institute, Boston, MA</div><div>Rajeswari Swaminathan: &nbsp; &nbsp;Nationwide Children's Hospital, Columbus, OH\n</div><div>Alexander Thorman: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;University of Cincinnati School of Medicine, OH</div><p></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qI9SW7LJyS",
           "_anchor": "content1-1y",
           "_protectedParams": [],
@@ -1620,6 +1623,12 @@
             "background-color": "@bgColor",
             ".mbr-text, blockquote": {
               "color": "#767676"
+            },
+            ".mbr-text DIV": {
+              "color": "#000000"
+            },
+            ".mbr-text P": {
+              "color": "#000000"
             }
           },
           "_name": "content1",
@@ -1661,10 +1670,16 @@
             "background-color": "@bgColor",
             ".mbr-text, blockquote": {
               "color": "#767676"
+            },
+            ".mbr-text P": {
+              "color": "#000000"
+            },
+            ".mbr-text DIV": {
+              "color": "#000000"
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>Morton JT, Freed SD, Lee SW, and Friedberg I A large scale prediction of bacteriocin gene blocks suggests a wide functional spectrum for bacteriocins BMC Bioinformatics 16:381 [<a href=\"https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0792-9\">BMC</a>]</p><p><span style=\"font-size: 1rem;\">Pope WH, Bowman CA, Russell DA et al. Whole genome comparison of a large collection of mycobacteriophages reveals a continuum of phage genetic diversity. Elife 4:e06416 [<a href=\"https://elifesciences.org/articles/06416\">Elife</a>]</span><br></p><p></p><div><br></div><div>\n</div><div>Ream DC, Bankapur AR, Friedberg I An Event-Driven Approach for Studying Gene Block Evolution in Bacteria Bioinformatics pii:btv128 [<a href=\"https://academic.oup.com/bioinformatics/article/31/13/2075/196486\">OUP</a>]</div><div><br></div><div>\n</div><div>Friedberg I, Wass M, Mooney SD, Radivojac P Ten Simple Rules for a Community Computational Challenge PLoS Comp Biol 11(4):e1004150 [<a href=\"http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004150\">PLoS</a>]</div><p></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>Morton JT, Freed SD, Lee SW, and Friedberg I A large scale prediction of bacteriocin gene blocks suggests a wide functional spectrum for bacteriocins BMC Bioinformatics 16:381 [<a href=\"https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0792-9\">BMC</a>]</p><p><span style=\"font-size: 1rem;\">Pope WH, Bowman CA, Russell DA et al. Whole genome comparison of a large collection of mycobacteriophages reveals a continuum of phage genetic diversity. Elife 4:e06416 [<a href=\"https://elifesciences.org/articles/06416\">Elife</a>]</span></p><div>\n</div><div>Ream DC, Bankapur AR, Friedberg I An Event-Driven Approach for Studying Gene Block Evolution in Bacteria Bioinformatics pii:btv128 [<a href=\"https://academic.oup.com/bioinformatics/article/31/13/2075/196486\">OUP</a>]</div><div><br></div><div>\n</div><div>Friedberg I, Wass M, Mooney SD, Radivojac P Ten Simple Rules for a Community Computational Challenge PLoS Comp Biol 11(4):e1004150 [<a href=\"http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004150\">PLoS</a>]</div><p></p></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-y",
           "_isUserblock": true,
           "_cid": "qHMwgik8o8",
@@ -1702,6 +1717,12 @@
             "background-color": "@bgColor",
             ".mbr-text, blockquote": {
               "color": "#767676"
+            },
+            ".mbr-text P": {
+              "color": "#000000"
+            },
+            ".mbr-text DIV": {
+              "color": "#000000"
             }
           },
           "_name": "content1",
@@ -1743,6 +1764,12 @@
             "background-color": "@bgColor",
             ".mbr-text, blockquote": {
               "color": "#767676"
+            },
+            ".mbr-text DIV": {
+              "color": "#000000"
+            },
+            ".mbr-text P": {
+              "color": "#000000"
             }
           },
           "_name": "content1",
@@ -1784,6 +1811,12 @@
             "background-color": "@bgColor",
             ".mbr-text, blockquote": {
               "color": "#767676"
+            },
+            ".mbr-text P": {
+              "color": "#000000"
+            },
+            ".mbr-text DIV": {
+              "color": "#000000"
             }
           },
           "_name": "content1",
@@ -1825,6 +1858,9 @@
             "background-color": "@bgColor",
             ".mbr-text, blockquote": {
               "color": "#767676"
+            },
+            ".mbr-text": {
+              "color": "#000000"
             }
           },
           "_name": "content1",
@@ -1866,10 +1902,16 @@
             "background-color": "@bgColor",
             ".mbr-text, blockquote": {
               "color": "#767676"
+            },
+            ".mbr-text P": {
+              "color": "#000000"
+            },
+            ".mbr-text DIV": {
+              "color": "#000000"
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><span style=\"font-size: 1rem;\">Field D, Sansone S, Delong EF, Sterk P, Friedberg I, Kottmann R, Hirschman L, Garrity G, Cochrane G, Wooley J, Meyer F, Hunter S, White O. Meeting Report: Metagenomics, Metadata and MetaAnalysis (M3) at ISMB 2010. Stand Genomic Sci. 2010 Dec 4;3(3):232-4. [<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/21304729\">PubMed</a>]</span><br></p><p></p><div><br></div><div>\n</div><div>Kelly RJ, Vincent DE, Friedberg I. IPRStats: visualization of the functional potential of an InterProScan run. BMC Bioinformatics. 2010 Dec 21;11 Suppl 1.S13. [<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/21304724\">PubMed</a>]</div><div><br></div><div>\n</div><div>Wooley JC, Godzik A, Friedberg I. A primer on metagenomics. PLoS Comput Biol. 2010 Feb 26;6(2):e1000667. [<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/20195499\">PubMed</a>]</div><p></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><span style=\"font-size: 1rem;\">Field D, Sansone S, Delong EF, Sterk P, Friedberg I, Kottmann R, Hirschman L, Garrity G, Cochrane G, Wooley J, Meyer F, Hunter S, White O. Meeting Report: Metagenomics, Metadata and MetaAnalysis (M3) at ISMB 2010. Stand Genomic Sci. 2010 Dec 4;3(3):232-4. [<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/21304729\">PubMed</a>]</span></p><div>\n</div><div>Kelly RJ, Vincent DE, Friedberg I. IPRStats: visualization of the functional potential of an InterProScan run. BMC Bioinformatics. 2010 Dec 21;11 Suppl 1.S13. [<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/21304724\">PubMed</a>]</div><div><br></div><div>\n</div><div>Wooley JC, Godzik A, Friedberg I. A primer on metagenomics. PLoS Comput Biol. 2010 Feb 26;6(2):e1000667. [<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/20195499\">PubMed</a>]</div><p></p></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-1g",
           "_isUserblock": true,
           "_cid": "qHMwSmho8e",
@@ -1907,6 +1949,12 @@
             "background-color": "@bgColor",
             ".mbr-text, blockquote": {
               "color": "#767676"
+            },
+            ".mbr-text P": {
+              "color": "#000000"
+            },
+            ".mbr-text DIV": {
+              "color": "#000000"
             }
           },
           "_name": "content1",
@@ -1948,6 +1996,12 @@
             "background-color": "@bgColor",
             ".mbr-text, blockquote": {
               "color": "#767676"
+            },
+            ".mbr-text P": {
+              "color": "#000000"
+            },
+            ".mbr-text DIV": {
+              "color": "#000000"
             }
           },
           "_name": "content1",
@@ -1989,6 +2043,12 @@
             "background-color": "@bgColor",
             ".mbr-text, blockquote": {
               "color": "#767676"
+            },
+            ".mbr-text P": {
+              "color": "#000000"
+            },
+            ".mbr-text DIV": {
+              "color": "#000000"
             }
           },
           "_name": "content1",
@@ -2030,6 +2090,12 @@
             "background-color": "@bgColor",
             ".mbr-text, blockquote": {
               "color": "#767676"
+            },
+            ".mbr-text P": {
+              "color": "#000000"
+            },
+            ".mbr-text DIV": {
+              "color": "#000000"
             }
           },
           "_name": "content1",
@@ -2071,6 +2137,12 @@
             "background-color": "@bgColor",
             ".mbr-text, blockquote": {
               "color": "#767676"
+            },
+            ".mbr-text P": {
+              "color": "#000000"
+            },
+            ".mbr-text DIV": {
+              "color": "#000000"
             }
           },
           "_name": "content1",
@@ -2510,7 +2582,7 @@
             }
           },
           "_name": "content4",
-          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#149dcc\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\"><b>Software projects</b></h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">\n                    Shape your future web project with sharp design and refine coded functions.\n                </h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#149dcc\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\"><b>Software</b></h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">\n                    Shape your future web project with sharp design and refine coded functions.\n                </h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qHMxFDjTKC",
           "_anchor": "content4-1m",
           "_protectedParams": [],
