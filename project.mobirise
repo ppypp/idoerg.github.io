@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "IddoLabJan18",
-    "currentPage": "publications.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -472,7 +472,7 @@
               "background-image": "url(@bg-value)"
             },
             "H1": {
-              "color": "#232323"
+              "color": "#000000"
             },
             "P": {
               "color": "#000000"
