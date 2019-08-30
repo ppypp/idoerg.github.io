@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "IddoMain",
-    "currentPage": "index.html",
+    "name": "IddoLabJan18",
+    "currentPage": "people.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -37,12 +37,11 @@
     },
     "versionFirst": "4.6.3",
     "uniqCompNum": 98,
-    "versionPublish": "4.10.8",
+    "versionPublish": "4.6.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/screenshot.png",
-    "noImageResize": "true",
-    "siteFonts": []
+    "noImageResize": "true"
   },
   "pages": {
     "index.html": {
